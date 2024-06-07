@@ -1,10 +1,10 @@
-##SimpleContract
+## SimpleContract
 A simple smart contract to demonstrate the use of require(), assert(), and revert() statements in Solidity.
 
-##Description
+## Description
 This project showcases a basic smart contract implemented in Solidity. The contract allows users to deposit and withdraw funds while ensuring proper error handling using require(), assert(), and revert() statements. The goal is to provide a clear understanding of these error-handling mechanisms within the context of a smart contract.
 
-##Getting Started
+## Getting Started
 Installing
 Download the Project:
 
@@ -60,11 +60,11 @@ For detailed Truffle commands and options:
 sh
 Copy code
 truffle help
-##Authors
+## Authors
 Contributors' names and contact info:
 
 Metacrafters team
 -Nivedita
 
-##License
+## License
 This project is licensed under the MIT License.
