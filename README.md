@@ -1,6 +1,3 @@
-Sure, here's a comprehensive README file for your `AcademicCredentials` smart contract project:
-
----
 
 # AcademicCredentials Smart Contract
 
